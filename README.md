@@ -5,4 +5,5 @@ search string in csv files
 
 ## 重要事記
 
+* UTF-8 : csv 檔
 
